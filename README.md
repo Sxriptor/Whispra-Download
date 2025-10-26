@@ -46,6 +46,9 @@ It listens to your mic or speakers, detects language, translates it instantly, a
 
 ---
 
+![ezgif-4fc0202fa1a636](https://github.com/user-attachments/assets/ec446e09-89c3-4224-aa21-d323547b0711)
+
+
 ## ❓ Support
 
 - Visit our [Help Center](https://account.whispra.xyz/userguides)  
