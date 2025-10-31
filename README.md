@@ -45,9 +45,10 @@ It listens to your mic or speakers, detects language, translates it instantly, a
 - 🌍 **Multilingual** — support for dozens of languages  
 
 ---
-|:--:|:--:|
-| ![Image 1](https://github.com/user-attachments/assets/ec446e09-89c3-4224-aa21-d323547b0711) | ![Image 2](https://github.com/user-attachments/assets/cc998929-3a75-43c1-b37b-c4947f3c1fdc) |
-## ❓ Support
+
+[Image 1](https://github.com/user-attachments/assets/ec446e09-89c3-4224-aa21-d323547b0711) 
+![Image 2](https://github.com/user-attachments/assets/cc998929-3a75-43c1-b37b-c4947f3c1fdc) |
+
 
 - Visit our [Help Center](https://account.whispra.xyz/userguides)  
 - Report bugs or request features via [/report](https://account.whispra.xyz/report)  
