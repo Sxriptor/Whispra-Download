@@ -123,6 +123,68 @@ All local models are bundled for **offline use**, with optional online fallback 
 
 ---
 
+## 🐛 Troubleshooting
+
+### Common Issues
+
+#### ❌ Microphone Access Denied
+
+**Solution**: Grant microphone permissions in system settings
+- **Windows**: Settings → Privacy → Microphone
+- **macOS**: System Preferences → Security & Privacy → Microphone
+- **Linux**: Check PulseAudio/ALSA permissions
+
+#### ❌ API Key Validation Failed
+
+**Solution**: Verify API keys are correct and have sufficient credits
+- Check OpenAI account: [platform.openai.com/usage](https://platform.openai.com/usage)
+- Check ElevenLabs account: [elevenlabs.io/subscription](https://elevenlabs.io/subscription)
+- Check DeepInfra account: [deepinfra.com](https://deepinfra.com)
+
+#### ❌ No Audio Output
+
+**Solution**: Check virtual microphone setup
+1. Try **📢 Test Virtual Mic** button
+2. Verify other apps can see **"Virtual Microphone Output"** device
+3. Check Windows audio settings for virtual microphone
+4. Ensure VB-Audio Cable or similar virtual audio device is installed
+
+#### ❌ Translation Not Working
+
+**Solution**: Use debug console to identify issues
+1. Click **Show Debug Console** to see real-time logs
+2. Verify all API keys are configured correctly
+3. Check selected models are available
+4. Ensure internet connection for cloud providers
+5. Check translation provider selection in Settings → Models
+
+#### ❌ Overlay Not Showing
+
+**Solution**: Troubleshoot overlay issues
+1. Check if overlay is enabled in settings
+2. Try a different hotkey if F11 conflicts with your game
+3. Restart the application if overlay becomes unresponsive
+4. Check overlay position settings
+
+#### ❌ Local Models Not Working
+
+**Solution**: Verify local model setup
+1. Ensure Python is installed and accessible
+2. Check PaddlePaddle installation (for OCR)
+3. Verify Argos Translate models are downloaded
+4. Check GPU acceleration settings if using GPU
+
+### Debug Console
+
+The debug console shows real-time information:
+- API requests and responses
+- Audio processing status
+- Error messages and warnings
+- Performance metrics
+- Translation progress
+
+Access it via: **Show Debug Console** button in the main interface
+
 ## 🧭 Resources  
 
 - 📚 [Help Center](https://account.whispra.xyz/userguides)  
