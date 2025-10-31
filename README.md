@@ -2,7 +2,7 @@
     <a href="https://crawlee.dev">
         <picture>
           <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/apify/crawlee/master/website/static/img/crawlee-dark.svg?sanitize=true">
-          <img alt="Crawlee" src="https://raw.githubusercontent.com/apify/crawlee/master/website/static/img/crawlee-light.svg?sanitize=true" width="500">
+          <img width="356" height="321" alt="Image" src="https://github.com/user-attachments/assets/155657ba-0679-4ece-99dd-ce352b72fcda" />
         </picture>
     </a>
     <br>
