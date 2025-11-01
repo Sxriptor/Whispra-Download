@@ -3,11 +3,11 @@
     <picture>
       <source
         media="(prefers-color-scheme: dark)"
-        srcset="https://github.com/user-attachments/assets/5fd5f5ac-87a2-4051-83e2-8a3a52946e46"
+        srcset="https://github.com/user-attachments/assets/5a069434-eddd-4d52-a708-d3bec314c76d"
       >
       <img
         alt="Whispra"
-        src="https://github.com/user-attachments/assets/5fd5f5ac-87a2-4051-83e2-8a3a52946e46"
+        src="https://github.com/user-attachments/assets/5a069434-eddd-4d52-a708-d3bec314c76d"
         width="300"
         height="100"
         style="margin-bottom:-4px;"
@@ -17,7 +17,6 @@
   <br>
   <small>Real Time Voice | Display Translation</small>
 </h1>
-
 
 
 
