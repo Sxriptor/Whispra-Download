@@ -26,8 +26,8 @@
 
 
 <p align="center">
-  <img src="https://img.shields.io/badge/version-1.8.8-white" alt="Downloads" style="max-width: 100%;">
-    <img src="https://img.shields.io/badge/downloads-123-white" alt="Downloads" style="max-width: 100%;">
+  <img src="https://img.shields.io/badge/version-2.4.8-white" alt="Downloads" style="max-width: 100%;">
+    <img src="https://img.shields.io/badge/downloads-2.4k-white" alt="Downloads" style="max-width: 100%;">
     <img src="https://img.shields.io/badge/discord-78 online-white" alt="Downloads" style="max-width: 100%;">
     <img src="https://img.shields.io/badge/stable-win 10/11-white" alt="Downloads" style="max-width: 100%;">
 </p>
